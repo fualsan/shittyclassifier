@@ -7,19 +7,20 @@ Low accuracy classification at its best
 *NOTE: you need python3.6+ to run*
 
 ### Clone the repo and change directory
-> $ git clone https://github.com/divisionby-0/shittyclassifier.git
-> $ cd shittyclassifier
+` $ git clone https://github.com/divisionby-0/shittyclassifier.git`
+
+` $ cd shittyclassifier `
 
 ### Create and activate virtual env (optional) 
-> $ python3.6 -m venv venv
+` $ python3.6 -m venv venv`
 
-> $ source venv/bin/activate
+` $ source venv/bin/activate`
 
 ### Install dependencies
-> $ pip install -r requirements.txt
+` $ pip install -r requirements.txt`
 
 ### Run
-> $ python shittyclassifier.py
+` $ python shittyclassifier.py`
 
 ## License 
 MIT
